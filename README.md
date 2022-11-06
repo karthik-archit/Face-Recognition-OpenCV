@@ -2,11 +2,11 @@
 
 Overview:
 
-Facial recognition involves 2 steps , detecting the face in a image then classifying the image. OpenCV’s facial detection model is used to detect faces and then facenet are used to extract face embeddings and using a simple feed forward network is used to classify the images.
+Facial recognition involves 2 steps , detecting the face in an image then classifying the image. OpenCV’s facial detection model is used to detect faces and then pre-trained facenet model is used to extract face embeddings and a simple feed forward network is used to classify the images.
 
 Dataset Used:
 
-Custom football jerseys from the internet.
+Custom dataset of football players from the internet.
 
 Libraries Used :
 
